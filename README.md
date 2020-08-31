@@ -11,8 +11,7 @@
 - Competed in [ACM-ICPC](https://icpc.baylor.edu/) East Central North America Regional Contest 2019 for University of Toronto Scarborough. 18th place out of 115 teams in 2019 contest
 - University of Toronto Scarborough Dean's List 2020
 
-### Resume (Unofficial Version)
-**[download here](https://github.com/NeoClear/NeoClear/blob/master/resume/resume.pdf)**
+### **[Resume (Unofficial Version)](https://github.com/NeoClear/NeoClear/blob/master/resume/resume.pdf)**
 
 ### Experience
 - **Teaching Assistant for Software Design** *at* **University of Toronto Scarborough** (September 2020 - December 2020)
