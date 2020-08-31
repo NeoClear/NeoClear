@@ -4,6 +4,17 @@
 
 ### Looking for Software Engineering Internships
 
+### About Me
+
+- Proficient in Java, C, C++, Python, Racket, Haskell; Familiar with HTML, CSS, SQL
+
+- Experienced in Git, Svn, Make
+
+- Competed in [ACM-ICPC](https://icpc.baylor.edu/) East Central North America Regional Contest 2019 for University of Toronto Scarborough. 18th place out of 115 teams in 2019 contest
+
+- University of Toronto Scarborough Dean's List 2020
+
+
 <!--
 ### Hi there 👋
 -->
