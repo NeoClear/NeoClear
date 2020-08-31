@@ -12,7 +12,7 @@
 - University of Toronto Scarborough Dean's List 2020
 
 ### Resume (Unofficial Version)
-**[download here](resume/resume.pdf)**
+**[download here](https://github.com/NeoClear/NeoClear/blob/master/resume/resume.pdf)**
 
 ### Personal Projects
 #### **[distributor](https://github.com/tiafs/distributor)**
@@ -20,7 +20,22 @@
 servers with fault tolerance
 - Achieved atomical computing using temporary file and volatile operating system API, which ensures data
 integrity
-
+#### **[neta](https://github.com/NeoClear/neta)**
+- Implemented syntax parsing, code evaluation, and error handling for a functional programming language
+interpreter using C and Flex
+- Completed math library in neta to support mathematical computation natively inside the interpreter
+#### **[qserver](https://github.com/tiafs/qserver)/[qclient](https://github.com/tiafs/qclient)**
+- Developed a pair of server/client application capable of establishing high performance private chatting ser‐
+vice
+- Attained minimal network flow requirement through carefully‐designed data transmission format and an
+efficient caching system
+#### **Rake**
+- Constructed a higher‐level functional programming language that supports design by contract, static scop‐
+ing, and closure binding based on Racket
+#### **ticsvr**
+- Wrote a tictoc game server in C that supports standard network read‐write protocol using non‐blocking IO
+#### **[synckv](https://github.com/tiafs/synckv)**
+- Created a concurrent key‐value remote database server capable of high throughput simultaneous access
 
 <!--
 ### Hi there 👋
