@@ -5,21 +5,16 @@
 ### Looking for Software Engineering Internships
 
 ### About Me
-
 - Proficient in Java, C, C++, Python, Racket, Haskell; Familiar with HTML, CSS, SQL
-
 - Experienced in Git, Svn, Make
-
+- Interested in Concurrent and Distributed Systems; Low-Level Programming; Operating Systems
 - Competed in [ACM-ICPC](https://icpc.baylor.edu/) East Central North America Regional Contest 2019 for University of Toronto Scarborough. 18th place out of 115 teams in 2019 contest
-
 - University of Toronto Scarborough Dean's List 2020
 
 ### Resume (Unofficial Version)
-
 **[download here](resume/resume.pdf)**
 
 ### Personal Projects
-
 #### **[distributor](https://github.com/tiafs/distributor)**
 - Built load‐balanced distributed framework to compute over large datasets running over multiple virtual
 servers with fault tolerance
