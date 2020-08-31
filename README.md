@@ -14,6 +14,9 @@
 ### Resume (Unofficial Version)
 **[download here](https://github.com/NeoClear/NeoClear/blob/master/resume/resume.pdf)**
 
+### Experience
+- **Teaching Assistant for Software Design** *at* **University of Toronto Scarborough** (September 2020 - December 2020)
+
 ### Personal Projects
 #### **[distributor](https://github.com/tiafs/distributor)**
 - Built load‐balanced distributed framework to compute over large datasets running over multiple virtual
