@@ -1,6 +1,12 @@
 # Ziheng (Luke) Zhuang
-### Hi there 👋
 
+### I am currently second-year undergraduate Student and Teaching Assistant @ University of Toronto
+
+### Looking for Software Engineering Internships
+
+<!--
+### Hi there 👋
+-->
 <!--
 **NeoClear/NeoClear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
