@@ -14,6 +14,18 @@
 
 - University of Toronto Scarborough Dean's List 2020
 
+### Resume (Unofficial Version)
+
+**[download here](resume/resume.pdf)**
+
+### Personal Projects
+
+#### **[distributor](https://github.com/tiafs/distributor)**
+- Built load‐balanced distributed framework to compute over large datasets running over multiple virtual
+servers with fault tolerance
+- Achieved atomical computing using temporary file and volatile operating system API, which ensures data
+integrity
+
 
 <!--
 ### Hi there 👋
